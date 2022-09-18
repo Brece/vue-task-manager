@@ -11,8 +11,7 @@
         },
         methods: {
             onClick() {
-                // TODO: handle click event
-                console.log('clicked');
+                this.$emit('btn-click');
             }
         }
     }
