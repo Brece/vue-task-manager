@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "do this first",
+      "day": "January 1 2023",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "do this second",
+      "day": "March 13 2023",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "do this last",
+      "day": "August 24 2023",
+      "reminder": false
+    }
+  ]
+}

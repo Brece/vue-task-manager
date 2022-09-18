@@ -1,4 +1,12 @@
 # vue-task-manager
+This is a small project to learn more about VueJS by building a Task Manager app in which you can add/delete task and also update its reminder status by double clicking the task.
+
+The database is managed by JSON-Server package, a full fake REST API. [Documentation](https://www.npmjs.com/package/json-server)
+Use this command to start the JSON-Server:
+```
+npm run backend
+```
+
 
 ## Project setup
 ```
