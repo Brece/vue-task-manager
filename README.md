@@ -7,7 +7,6 @@ Use this command to start the JSON-Server:
 npm run backend
 ```
 
-
 ## Project setup
 ```
 npm install

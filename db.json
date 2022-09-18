@@ -17,6 +17,12 @@
       "text": "do this last",
       "day": "August 24 2023",
       "reminder": false
+    },
+    {
+      "id": 1663544773521,
+      "text": "asdfa",
+      "day": "ag weg",
+      "reminder": true
     }
   ]
 }
